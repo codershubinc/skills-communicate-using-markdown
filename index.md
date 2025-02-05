@@ -1,1 +1,10 @@
-![Image of github avatar](https://avatars.githubusercontent.com/u/90494823?v=4)
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+``` javascript
+const fn = () => {
+console.log("helloworld ")
+}
+```
